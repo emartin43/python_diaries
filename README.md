@@ -30,6 +30,9 @@ In general, the language differences between R and Python is akin to the differe
 
 Lastly, it seems that from my research that people tend to say that R is "intuitive" and best for "statistical analyses" and "data science" while Python is best for "production" and it will give you real "programming skills". From the getgo, R seemed more intuitive to me in the beginning than Python has so far. However, I do not want to make any hard core judgement statements until I have some more experience with Python using it in difference contexts, i.e., visualizations, statistics, machine learning, etc. 
 
+### What I want to learn for next time:
+It would be really handy to learn how to add comments to code in Juptyer Notebook. While this first notebook is a bit messy without comments, I hope that my goal and intentions in this elementary stage of learning Python still comes through. 
+
 
 ### Available Files: 
 ### [Python Diaries 1 Notebook](https://github.com/emartin43/python_diaries/blob/e0fd13e67e098e6e0b5574d65463545fbf96ec95/pd1_large_pumpkins/python_diaries_1_script.ipynb)
