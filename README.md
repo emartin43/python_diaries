@@ -15,7 +15,6 @@ Get a feel for how Python works and do a little bit of exploratory data analysis
 - Installing and importing packages (Pandas, Numpy, Matplotlib, Seaborn) 
 - Cleaning data 
 - Manipulating data
-- Running basic inferential statistical analysis 
 - Summarizing data
 - Visualizing data 
   - Histogram
