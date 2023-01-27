@@ -38,9 +38,9 @@ It would be really handy to learn how to add comments to code in Juptyer Noteboo
 ### [Pumpkins Data](https://github.com/emartin43/python_diaries/blob/e0fd13e67e098e6e0b5574d65463545fbf96ec95/pd1_large_pumpkins/pumpkins.csv)
 
 
-## Python Diaries 2 -- Solitary Confinement
+## Python Diaries 2 -- Solitary Confinement in Detention Facilities 
 
-In this second installment of the Python Diaries, I analyze solitary confinement data from the International Consortium of Investigative Journalists (ICIJ) report "Solitary Voices". 
+In this second installment of the Python Diaries, I analyze solitary confinement data in detention facilities from the International Consortium of Investigative Journalists (ICIJ) report "Solitary Voices". 
 
 ### My goal for this project:
 Practice the Python skills I was introduced to in Python Diaries #1 and feel more comfortable with them.
