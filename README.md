@@ -37,4 +37,46 @@ It would be really handy to learn how to add comments to code in Juptyer Noteboo
 ### [Python Diaries 1 Notebook](https://github.com/emartin43/python_diaries/blob/e0fd13e67e098e6e0b5574d65463545fbf96ec95/pd1_large_pumpkins/python_diaries_1_script.ipynb)
 ### [Pumpkins Data](https://github.com/emartin43/python_diaries/blob/e0fd13e67e098e6e0b5574d65463545fbf96ec95/pd1_large_pumpkins/pumpkins.csv)
 
+
+## Python Diaries 2 -- Solitary Confinement
+
+In this second installment of the Python Diaries, I analyze solitary confinement data from the International Consortium of Investigative Journalists (ICIJ) report "Solitary Voices". 
+
+### My goal for this project:
+Practice the Python skills I was introduced to in Python Diaries #1 and feel more comfortable with them.
+
+### Skills I practiced in this project:
+- Creating a Jupyter Notebook 
+- Importing a .csv file
+- Installing and importing packages (Pandas, Numpy, Matplotlib, Seaborn) 
+- Cleaning data 
+- Manipulating data
+- Summarizing data
+- Visualizing data 
+  - Histogram
+  - Bar chart 
+  - Box plot 
+- Creating comments 
+- Setting data display formatting 
+- Subsetting Data 
+
+
+### General reflections: 
+After the last Python Diaries, I wanted to immediately jump into geospatial analysis or linear regressions, but I realized that it would be better to become more comfortable with basic Python conepts first before moving on to something more complicated. 
+
+I was so excited to dive into the world of data science and learn all the cool libraries and techniques. But I quickly realized that before I could even think about using those libraries, I needed to have a strong understanding of the basics. When it comes to data science, just like many STEM fields, understanding the basics is like the foundation of a house. If the foundation is weak, the rest of the house will crumble. But with a strong foundation, it's possible to build anything. 
+
+It was really rewarding to work with this dataset because of all the potential ways it can be used to help people and communities. Data science can be a powerful tool for promoting social good, especially when it comes to analyzing complex issues such as solitary confinement in detention facilities. By using techniques like machine learning and statistical analysis, data scientists can uncover patterns and insights that might otherwise go unnoticed. For example, in the context of solitary confinement, data science can be used to analyze large amounts of data on the conditions and outcomes of this practice, such as the length of time individuals spend in isolation, the impact on their mental health, and the correlation between solitary confinement and recidivism. This information can be used to inform policy and advocacy efforts aimed at reducing the use of solitary confinement and improving conditions for those who are incarcerated. Additionally, data science can also be used to monitor and evaluate the effectiveness of these efforts over time.
+
+And now that I'm on the lookout for my first entry-level data science job, and I know that the skills I've practiced from focusing on the basics of Python will make me a competitive candidate.
+
+### What I want to learn for next time:
+Next time, I want to take my Python skills to the next level by tinkering with geospatial data or running simple linear regressions. 
+
+
+### Available Files: 
+### [Python Diaries 2 Notebook](https://github.com/emartin43/python_diaries/blob/ec2da0811c093c9b4d68a7a38d674fd4c2b63967/pd2_solitary_confinement/Python%20Diaries%20%232.ipynb)
+### [Solitary Confinement Data](https://github.com/emartin43/python_diaries/blob/ec2da0811c093c9b4d68a7a38d674fd4c2b63967/pd2_solitary_confinement/icij-solitary-voices-final-dataset-for-publication.csv)
+
+
 ![image](https://user-images.githubusercontent.com/85309853/200291956-6305a937-5a7c-473d-a92a-e7f38cca38b5.png)
