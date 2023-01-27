@@ -62,7 +62,7 @@ Practice the Python skills I was introduced to in Python Diaries #1 and feel mor
 
 
 ### General reflections: 
-After the last Python Diaries, I wanted to immediately jump into geospatial analysis or linear regressions, but I realized that it would be better to become more comfortable with basic Python conepts first before moving on to something more complicated. 
+After the last Python Diaries, I wanted to immediately jump into geospatial analysis or linear regressions, but I realized that it would be better to become more comfortable with basic Python concepts first before moving on to something more complicated. 
 
 I was so excited to dive into the world of data science and learn all the cool libraries and techniques. But I quickly realized that before I could even think about using those libraries, I needed to have a strong understanding of the basics. When it comes to data science, just like many STEM fields, understanding the basics is like the foundation of a house. If the foundation is weak, the rest of the house will crumble. But with a strong foundation, it's possible to build anything. 
 
