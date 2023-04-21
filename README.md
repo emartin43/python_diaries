@@ -77,3 +77,48 @@ Next time, I want to take my Python skills to the next level by tinkering with g
 ### [Python Diaries 2 Notebook](https://github.com/emartin43/python_diaries/blob/ec2da0811c093c9b4d68a7a38d674fd4c2b63967/pd2_solitary_confinement/Python%20Diaries%20%232.ipynb)
 ### [Solitary Confinement Data](https://github.com/emartin43/python_diaries/blob/ec2da0811c093c9b4d68a7a38d674fd4c2b63967/pd2_solitary_confinement/icij-solitary-voices-final-dataset-for-publication.csv)
 
+
+
+## Python Diaries 3 -- Medical Students Mental Health
+
+In the third installment of the Python Diaries, I analyze medical students' mental health in Switzerland. This dataset explores medical students' empathy, mental health, and burnout in Switzerland (Data Carrard et al. 2022 MedTeach.csv). It compiles important demographic information as well as self-reported data and results from psychological tests to give a comprehensive picture of the mental states of students in the medical field. 
+
+### My goal for this project:
+Practice more visualization techniques as well as delve into basic one-variable linear regressions.
+
+### Skills I practiced in this project:
+- Creating a Jupyter Notebook 
+- Importing a .csv file
+- Installing and importing packages (Pandas, Numpy, Matplotlib, Seaborn) 
+- Cleaning data 
+  - Checking for outliers
+- Manipulating data
+- Summarizing data
+  - Correlation Matrices
+- Visualizing data 
+  - Histogram
+  - Bar chart 
+  - Box plot 
+  - Linear Regression
+  - Heatmap
+  - Stripplot
+- Creating comments 
+
+
+### General reflections: 
+It was really neat to be able to create one-variable linear regressions from the data. With the other installments of the Python Diaries, I was focusing more on the EDA aspect of data wrangling, which is very important, but it was also nice to transition onto more predictive analytics. 
+
+We run a linear regression of depression on anxiety to see if they were associated at all for these medical students. We find that there was a 0.72 correlation between the self-reported survey results of depression and anxiety in these medical students, indicating that these two mental illnesses may be comorbid, which aligns with the existing literature on common comorbidities (AL-Asadi et al., 2015). Additionally, we find a moderate correlation (0.61) between self-reported depression scores and self-reported exhaustion of medical students. Surprisingly, we find a little to no correlation between self-reported depression and hours of study per week of the participant, suggesting that time spent studying does not impact depression and depression (and correlated exhaustion) does not decrease how much these medical students study. 
+
+The aim with this analysis was to enhance the comprehension of the impact of being a medical student on one's health and wellbeing. By examining the specific factors that may influence various outcomes, we can improve educational systems, benefiting both medical students and their future patients.
+
+
+### What I want to learn for next time:
+Next time, it would be interesting to work on web scraping or pulling data using an API.  
+
+
+### Available Files: 
+### [Python Diaries 3 Notebook](https://github.com/emartin43/python_diaries/blob/08ccc5dd24565ae61540ff6a6387974210dfa05a/pd3_mentalhealth/python_diaries_3.ipynb)
+### [Medical Student Mental Health Data](https://github.com/emartin43/python_diaries/blob/08ccc5dd24565ae61540ff6a6387974210dfa05a/pd3_mentalhealth/med_mental_health.csv)
+### [Codebook] (https://github.com/emartin43/python_diaries/blob/08ccc5dd24565ae61540ff6a6387974210dfa05a/pd3_mentalhealth/Codebook%20Carrard%20et%20al.%202022%20MedTeach.csv)
+
