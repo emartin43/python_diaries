@@ -123,3 +123,4 @@ Next time, it would be interesting to work on web scraping or pulling data using
 ### [Codebook](https://github.com/emartin43/python_diaries/blob/08ccc5dd24565ae61540ff6a6387974210dfa05a/pd3_mentalhealth/Codebook%20Carrard%20et%20al.%202022%20MedTeach.csv)
 
 
+## Python Diaries 4 -- Data Extraction from Bonneville Power Administration Lighting Calculator Files
