@@ -148,13 +148,10 @@ When I first received this request, I wasn't entirely sure how to approach it. I
 
 After doing some research on what strategy to take, I spent a lot of time just thinking and reflecting on the best way to approach my particular task. I like externalizing my thought processes because it helps me clarify and organize all the different ideas I might have to tackle a project, which is why my whiteboard and whiteboard markers are my favorite office supplies.
 
-One of the biggest life lessons I've learned from programming is breaking up one big problem into many smaller problems. It definitely is so helpful and calming to know that I can always break up any problem I have into smaller, more manageable tasks. In the case of this project, I had to 
-
-
+One of the biggest life lessons I've learned from programming is breaking up one big problem into many smaller problems. It definitely is so helpful and calming to know that I can always break up any problem I have into smaller, more manageable tasks. For example, in this project, before I could even think about scraping data, I had to write a chunk of code that converted all the data files to .xlsx because the package 'openpxl' only works with .xlsx files. Then, I ran through the logic of scraping one single file before writing the loop to extract data from multiple files in multiple subfolders. There were many instances of having to break my logic down to solve a simpler problem. 
 
 ### What I want to learn for next time:
 The project I'm currently working on is another data extract of bi-yearly reports. It would be neat to take this project to the next step by taking the data uploaded into Snowflake and visualizing any insights in Tableau, which is a software I'm currently studying to certify for. 
-
 
 ### Available Files:
 ### [Python Diaries 4 Code](https://github.com/emartin43/python_diaries/blob/main/pd4_extraction/LC_Extraction.py)
