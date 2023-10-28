@@ -124,3 +124,37 @@ Next time, it would be interesting to work on web scraping or pulling data using
 
 
 ## Python Diaries 4 -- Data Extraction from Bonneville Power Administration Lighting Calculator Files
+
+This is a project I worked on during my internship at Tacoma Public Utilities/Tacoma Power in the Customer Energy Programs group working on energy efficiency and conservation. 
+
+### My goal for this project:
+Develop an automatic data extraction process to scrape information from disparate Excel spreadsheets, join the data into one data frame, transform the data, and load the data into a Snowflake cloud database as part of the ETL process in data warehousing. 
+
+### Skills I practiced in this project:
+- File handling with the os module
+- Extracting data from Excel files using openpyxl and Pandas
+- Data cleaning and transformation
+- Regular expression (regex) usage for data parsing
+- Iteration and looping through files and directories
+- Data conversion and formatting
+- Pandas DataFrame manipulation
+- Error handling with None values
+- Concatenation and combination of DataFrames
+- Documentation and comments for code clarity
+- Quality assurance practices to ensure data accuracy and integrity
+
+### General reflections:
+When I first received this request, I wasn't entirely sure how to approach it. I had a little bit of familiarity with scraping PDF files, though that was a major hassle, and that was when I first started learning how to code. Now that I'm more confident in my programming abilities, it's nice to have experience working through tough assignments. 
+
+After doing some research on what strategy to take, I spent a lot of time just thinking and reflecting on the best way to approach my particular task. I like externalizing my thought processes because it helps me clarify and organize all the different ideas I might have to tackle a project, which is why my whiteboard and whiteboard markers are my favorite office supplies.
+
+One of the biggest life lessons I've learned from programming is breaking up one big problem into many smaller problems. It definitely is so helpful and calming to know that I can always break up any problem I have into smaller, more manageable tasks. In the case of this project, I had to 
+
+
+
+### What I want to learn for next time:
+The project I'm currently working on is another data extract of bi-yearly reports. It would be neat to take this project to the next step by taking the data uploaded into Snowflake and visualizing any insights in Tableau, which is a software I'm currently studying to certify for. 
+
+
+### Available Files:
+### [Python Diaries 4 Code](https://github.com/emartin43/python_diaries/blob/main/pd4_extraction/LC_Extraction.py)
